@@ -1,0 +1,9 @@
+package if_else;
+
+import java.util.Scanner;
+
+public class Else_if {
+	Scanner s = new Scanner(System.in);
+	
+
+}

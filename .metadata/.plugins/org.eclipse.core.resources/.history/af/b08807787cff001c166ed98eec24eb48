@@ -1,0 +1,20 @@
+package if_else;
+
+import java.util.Scanner;
+
+public class AlphabetPrint {
+	public static void main(String[] args) {
+	Scanner sc = new Scanner(System.in);
+	String s =sc.next();
+	char ch1=s.charAt(0);
+for(char ch='a';ch>='z';ch++) {
+	if(ch == ch1) {
+		System.out.println("0");
+		
+	}
+	
+}
+	
+	}
+
+}

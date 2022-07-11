@@ -1,0 +1,12 @@
+package if_else;
+
+import java.util.Scanner;
+
+public class EvenOdd {
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		String n = s.next();
+		int rem = n/2;
+	}
+
+}

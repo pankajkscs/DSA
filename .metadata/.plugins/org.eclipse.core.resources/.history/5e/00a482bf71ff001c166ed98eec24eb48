@@ -1,0 +1,17 @@
+package if_else;
+
+public class CondationCheck {
+	public static void main(String[] args) {
+		int a =50;
+		if(a>10) {
+			System.out.println("Coding");
+		} else(a>60)
+	
+		{
+			System.out.println("Ninjas");
+		}
+		
+		
+	}
+
+}

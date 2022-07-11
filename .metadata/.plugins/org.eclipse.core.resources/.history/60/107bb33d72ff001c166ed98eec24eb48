@@ -1,0 +1,21 @@
+package if_else;
+
+/*when i try to condation with else(a>0) then we get compiletime error
+ * 
+ * 
+ * 
+ * 
+ */
+public class CondationCheck {
+	public static void main(String[] args) {
+		int a =50;
+		if(a>10) {
+			System.out.println("Coding");
+		} else{
+	    System.out.println("Ninjas");
+		}
+		
+		
+	}
+
+}
